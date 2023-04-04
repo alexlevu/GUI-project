@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\TemplateSFML.dir/objects.a
+C:\Users\Alex\Downloads\i686-7.3.0-release-posix-dwarf-rt_v5-rev0\mingw32\bin\ar.exe cr CMakeFiles\TemplateSFML.dir/objects.a @CMakeFiles\TemplateSFML.dir\objects1.rsp
+C:\Users\Alex\Downloads\i686-7.3.0-release-posix-dwarf-rt_v5-rev0\mingw32\bin\g++.exe  -std=c++14 -static -g -Wl,--whole-archive CMakeFiles\TemplateSFML.dir/objects.a -Wl,--no-whole-archive -o TemplateSFML.exe -Wl,--out-implib,libTemplateSFML.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\TemplateSFML.dir\linklibs.rsp
